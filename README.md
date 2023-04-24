@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=rgb22272e&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb22272e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Barros+Nascimento;I'm+21+years+old;I+am+from+Recife,+PE;I+study+web+development+at+Kenzie+Academy+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb1100ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Barros+Nascimento;I'm+21+years+old;I+am+from+Recife,+PE;I+study+web+development+at+Kenzie+Academy+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebarrosn&show_icons=true&count_private=true&hide_border=true&title_color=rgb22272e&icon_color=rgb22272e&text_color=rgb22272e&bg_color=0d1117" alt="Pedro Henrique Barros Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebarrosn&layout=compact&hide_border=true&title_color=rgb22272e&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrohenriquebarrosn&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrohenriquebarrosn&bg_color=0d1117&color=0876fd&line=539bf5&point=62c2fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
