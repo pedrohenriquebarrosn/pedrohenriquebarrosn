@@ -20,9 +20,8 @@ JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Git
 These are educational projects developed during my technical training.
 
 - **[NuKenzie — Finance Tracker](https://github.com/pedrohenriquebarrosn/NUKENZIE-FinancialApp)** — React application for managing income and expenses.
-- **[KenzieHub — Technology Dashboard](https://github.com/pedrohenriquebarrosn/kenzieHubApp)** — React interface with authentication and API integration.
+- **[KenzieHub — Technology Dashboard](https://github.com/pedrohenriquebarrosn/kenzieHubApp)** — React authentication and technology-management interface; current hosted sign-up and sign-in are not working.
 - **[CRUD Admin — REST API](https://github.com/pedrohenriquebarrosn/CRUD-Admin)** — TypeScript, Express, and PostgreSQL API with authentication and authorization.
-- **[KenzieBurguer — Shopping Cart](https://github.com/pedrohenriquebarrosn/KenzieBurguer)** — React product catalog and interactive shopping cart.
 
 ### Connect
 
