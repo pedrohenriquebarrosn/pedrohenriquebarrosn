@@ -37,8 +37,8 @@ I separate functional browser demonstrations from real backend authentication or
 
 ### Download my résumé
 
-[![Download CV in Portuguese](https://img.shields.io/badge/Download-Curr%C3%ADculo%20PT--BR-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Curriculo_Pedro_Barros_PT.pdf)
 [![Download résumé in English](https://img.shields.io/badge/Download-English%20R%C3%A9sum%C3%A9-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Pedro_Barros_Resume_EN.pdf)
+[![Download CV in Portuguese](https://img.shields.io/badge/Download-Curr%C3%ADculo%20PT--BR-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Curriculo_Pedro_Barros_PT.pdf)
 
 ## Connect
 
