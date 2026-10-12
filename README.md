@@ -1,28 +1,30 @@
 # Pedro Henrique Barros Nascimento
 
-**Operations · Business · Technology**
+**Business Administration Graduate | Operations & Digital Management | Technology**
 
-Business Administration graduate based in Recife, Brazil, with experience in operations, customer support, logistics, and digital management. I also have a Full Stack Web Development background.
+Based in **Recife, Brazil**. I bring experience in business operations, customer support, inventory and logistics, and digital brand management, complemented by Full Stack Web Development training.
 
-**Open to remote opportunities in business and technology**, including roles related to AI training, data annotation, and response evaluation.
+I am interested in **remote and international opportunities** in business operations, AI data annotation, AI response evaluation, and technology-related roles. These are career interests, not claims of prior professional experience as an AI model evaluator.
 
-### Experience
+## Background
 
-- **DÉA Sabores e Congelados** — Brand identity, social media content, and WhatsApp Business operations for a family food business (2026–present).
-- **Operations & customer support** — Experience in retail, inventory and logistics, events, and rehabilitation-center operations.
+- **Business and operations:** Customer-facing work, day-to-day operations, inventory, logistics, and administrative processes.
+- **Digital management:** Brand presentation, social media content, and WhatsApp Business operations for **DÉA Sabores e Congelados**, a family food business.
+- **Technical foundation:** JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, Git, and REST API fundamentals.
 
-### Technical foundation
+## Selected development work
 
-JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Git
+My software projects were developed primarily for educational purposes during my technical training.
 
-### Selected projects
+| Project | What it demonstrates | Evidence / current status |
+| --- | --- | --- |
+| **[NuKenzie — Finance Tracker](https://github.com/pedrohenriquebarrosn/NUKENZIE-FinancialApp)** | React interface for income, expenses, and calculated balances | [Live app](https://entrega-nukenzie-pedro-8nvfucdqj-pedrohenriquebarrosn.vercel.app/) — owner-tested in October 2026; no persistent database |
+| **[CRUD Admin — REST API](https://github.com/pedrohenriquebarrosn/CRUD-Admin)** | Express, TypeScript, PostgreSQL, JWT, user management, and authorization | Source and test suite available; no independently verified hosted API |
+| **[KenzieHub — Technology Dashboard](https://github.com/pedrohenriquebarrosn/kenzieHubApp)** | React forms, protected navigation, and technology management | [Recovery PR](https://github.com/pedrohenriquebarrosn/kenzieHubApp/pull/1): local browser-only demonstration passed automated tests; existing hosted login remains unavailable |
+| **[KenzieBurguer 2.0 — Storefront](https://github.com/pedrohenriquebarrosn/kenzie-burguer-v2-template-pedro-henrique)** | TypeScript/React catalog, filtering, cart, and responsive interface | [Recovery PR](https://github.com/pedrohenriquebarrosn/kenzie-burguer-v2-template-pedro-henrique/pull/1): fictitious offline store demo passed automated tests; not yet deployed |
 
-These are educational projects developed during my technical training.
+I separate functional browser demonstrations from real backend authentication or production-ready services.
 
-- **[NuKenzie — Finance Tracker](https://github.com/pedrohenriquebarrosn/NUKENZIE-FinancialApp)** — React finance tracker with income and expense management. **[Live Demo](https://entrega-nukenzie-pedro-8nvfucdqj-pedrohenriquebarrosn.vercel.app/)** (owner-tested, October 2026).
-- **[KenzieHub — Technology Dashboard](https://github.com/pedrohenriquebarrosn/kenzieHubApp)** — React authentication and technology-management interface; current hosted sign-up and sign-in are not working.
-- **[CRUD Admin — REST API](https://github.com/pedrohenriquebarrosn/CRUD-Admin)** — TypeScript, Express, and PostgreSQL API with authentication and authorization.
-
-### Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [Email](mailto:pedrobarroscnc@gmail.com)
