@@ -25,6 +25,16 @@ My software projects were developed primarily for educational purposes during my
 
 I separate functional browser demonstrations from real backend authentication or production-ready services.
 
+## Résumé / CV
+
+**Education** — Bachelor of Business Administration (UNIFG, completed 2026); Full Stack Web Development Program (Kenzie Academy Brasil, completed 2023).
+
+**Selected certifications** — Kenzie Academy Front End Developer and Full Stack; Udemy *Artificial Intelligence: From Beginner to Advanced (2026)*; Fundação Bradesco *Business Strategy*.
+
+**Languages** — Brazilian Portuguese (native); English (working proficiency, actively improving).
+
+**Career focus** — Remote and international opportunities involving operations, AI training, data annotation, and AI response evaluation.
+
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [Email](mailto:pedrobarroscnc@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [WhatsApp](https://wa.me/5581992954019) · [Email](mailto:pedrobarroscnc@gmail.com)
