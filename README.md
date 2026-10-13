@@ -40,6 +40,4 @@ Educational projects below are **not commercial stores or production customer sy
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [Email](mailto:pedrobarroscnc@gmail.com) · [WhatsApp](https://wa.me/5581992954019)
-
-> Projects represent educational work, and any public demos are explicitly illustrative. A successful build or simulated browser test is not the same as verified production functionality.
+[Email](mailto:pedrobarroscnc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [GitHub](https://github.com/pedrohenriquebarrosn) · [WhatsApp](https://wa.me/5581992954019)
