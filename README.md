@@ -15,16 +15,7 @@ I have practical experience in logistics, day-to-day operations, customer-facing
 
 ## Selected projects
 
-Educational projects below are **not commercial stores or production customer systems**. Validation status is stated separately from intended functionality.
-
-| Project | What to explore | Honest status |
-| --- | --- | --- |
-| [Motors Shop — Group 05](https://github.com/Projeto-Full-Stack-Grupo-05/Projeto-Full-Stack-Grupo-05) | A **seven-person** 2023 Kenzie full-stack vehicle marketplace capstone | The original team repository confirms my contributions to the homepage, registration/login forms, products-page structure and frontend API service integration. The original backend has **not** been revalidated and is **not** presented as a working live demo. The project is included as verified collaborative work. |
-| [KenzieHub](https://github.com/pedrohenriquebarrosn/kenzieHubApp) | React forms, protected routes and technology management | [Staging preview](https://kenziehub-qfwq-frgjiso9e-pedrohenriquebarrosns-projects.vercel.app/): real Supabase sign-up and email confirmation observed, and a technology record independently verified in PostgreSQL. Edit/delete and isolation between accounts remain unverified. |
-| [KenzieBurguer 2.0](https://github.com/pedrohenriquebarrosn/kenzie-burguer-v2-template-pedro-henrique) | TypeScript storefront, submit-to-search, responsive catalog and quantity-aware cart | [Staging preview](https://kenzie-burguer-v2-template-pedro-henrique-eoyd-edlg3hzqf.vercel.app/): reviewed educational demo with sample products and photos. Supabase integration exists; the refreshed cart quantity persistence and multi-account isolation still need real end-to-end verification. No real checkout. |
-| [NuKenzie — Finance Tracker](https://github.com/pedrohenriquebarrosn/NUKENZIE-FinancialApp) | React income/expense tracking and computed balances | [Live educational interface](https://entrega-nukenzie-pedro-8nvfucdqj-pedrohenriquebarrosn.vercel.app/); no persistent database. |
-| [CRUD Admin — REST API](https://github.com/pedrohenriquebarrosn/CRUD-Admin) | Express, TypeScript, PostgreSQL, JWT and role-based operations | Source and automated tests; no independently verified public hosted API. |
-| [WearTake Store](https://github.com/pedrohenriquebarrosn/WearTake-Store) | JavaScript catalog, filtering and browser-local cart | [Educational storefront preview](https://weartake-store-preview.vercel.app/), with illustrative products and no real orders. |
+Explore the repositories pinned below to see selected projects, source code and implementation details.
 
 ## Education & certificates
 
