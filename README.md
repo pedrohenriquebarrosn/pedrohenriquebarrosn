@@ -38,7 +38,7 @@ Explore the code, documentation and interactive applications below.
 **Delivery & quality:** Git, GitHub Actions, automated testing, deployment workflows.  
 **Current direction:** AI-enabled applications, model/API integration and workflow automation.
 
-The repositories include educational Full Stack projects that have been extended, tested and prepared for portfolio review. Their READMEs contain technical details and verification links.
+My selected work combines Full Stack projects with meaningful improvements in functionality, user experience, automated verification and bilingual presentation. Each repository documents its implementation and technical checks.
 
 ## Business experience
 
@@ -51,7 +51,7 @@ This combination gives me a practical perspective: **understand the business pro
 - **Business Administration** — UNIFG.
 - **Full Stack Web Development** — Kenzie Academy Brasil (2023).
 - Complementary studies in AI, business strategy and software development.
-- **Portuguese:** native · **English:** developing professional proficiency.
+- **Languages:** Portuguese (native) · English.
 
 ## Connect
 
