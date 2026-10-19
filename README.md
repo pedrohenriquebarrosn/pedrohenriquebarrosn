@@ -27,11 +27,15 @@ My **pinned repositories** showcase selected applications and technical work. Ea
 
 For my professional journey, case studies and broader project context, visit the **[full portfolio](https://portfolio-pedro-barros-2026-review.vercel.app/en)**.
 
+## Resumes
+
+[**English resume (PDF)**](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Pedro_Barros_Resume_EN.pdf) · [**Currículo em português (PDF)**](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Curriculo_Pedro_Barros_PT.pdf)
+
 ## Education & contact
 
 **Business Administration** — UNIFG · **Full Stack Web Development** — Kenzie Academy Brasil
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [Email](mailto:pedrobarroscnc@gmail.com) · [English résumé](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Pedro_Barros_Resume_EN.pdf) · [Currículo PT](https://github.com/pedrohenriquebarrosn/pedrohenriquebarrosn/raw/refs/heads/main/Curriculo_Pedro_Barros_PT.pdf)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-barros-nascimento-2bb684251/) · [Email](mailto:pedrobarroscnc@gmail.com) · [WhatsApp](https://wa.me/5581992954019)
 
 <details>
 <summary><strong>Sobre mim — português</strong></summary>
